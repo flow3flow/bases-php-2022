@@ -17,8 +17,8 @@
 <body>
     <?php // ouverture de PHP
     echo "<h1>Hello World</h1>";
-
-   // fermeture de PHP ?>
+    
+    // fermeture de PHP ?>
     
 </body>
 </html>
