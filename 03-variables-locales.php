@@ -40,6 +40,30 @@ Les noms de variables suivent les mêmes règles de nommage que les autres entit
     echo '$lala = ';
     echo "$lala <br>";
 
+    $_____coucou =7;
+    echo '$coucou=';
+    echo "$_____coucou <br>"; 
+
+    $bool = true;
+    echo "$bool <br> ";
+
+    $IloveYou = "me too";
+    echo'$IloveYou = ' ;
+    echo "$IloveYou <br>";
+
+    $mabapta ="lulu";
+    echo'$mabapta=';
+    echo"$mabapta <br>";
+
+
+
+
+
+
+
+
+
+
 
 ?>
 </body>
